@@ -6,7 +6,7 @@
 		}
 	},
     "require": {
-        "dompdf/dompdf": "^0.8.5",
+        "dompdf/dompdf": "^2.0.0",
         "pagseguro/pagseguro-php-sdk": "^6.0",
         "cocur/slugify": "^4.0"
     },
